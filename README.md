@@ -3,6 +3,7 @@
 ```shell
 # Clone project
 git clone git@github.com:BudjakovDmitry/ddd_trainer.git
+cd ddd_trainer
 
 # Up
 docker-compose up --build -d
